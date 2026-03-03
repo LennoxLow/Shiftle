@@ -1,6 +1,7 @@
 # Shiftle
+Don't look to closely at the code - this was made just for me!
 
-A Wordle clone with a twist — the target word can shift as you play.
+It's a Wordle clone with a twist — the target word can shift as you play.
 
 ## How to play
 
